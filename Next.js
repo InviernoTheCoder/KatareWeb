@@ -1,1 +1,0 @@
-import { SpeedInsights } from "@vercel/speed-ansights/next"
