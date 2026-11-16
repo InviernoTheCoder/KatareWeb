@@ -1,20 +1,20 @@
 h1 {
-    color: red;
+    color: #FF0000;
     font-size: 3.0rem
 }
 h2 {
-    color: orange;
+    color: #FFA500;
     font-size: 2.5rem
 }
 h3 {
-    color: yellow;
+    color: #FFFF00;
     font-size: 2.0rem
 }
 a {
-    color: blue;
+    color: #0000FF;
     font-size: 1.75rem
 }
 p {
-    color: black;
+    color: #000000;
     font-size: 1.5rem
 }
